@@ -1,7 +1,7 @@
 
 import './styles/styles.css';
 import Router from './Router';
-import './babel';
+//import '../babel';
 
 const router = new Router({
     mode: 'hash',
